@@ -1,0 +1,1 @@
+# ionic7_react_sqlite
